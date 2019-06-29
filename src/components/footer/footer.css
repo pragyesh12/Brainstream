@@ -1,0 +1,15 @@
+.footer{
+    background: black;
+    height: 40vh;
+    color:white;
+}
+.footer-row{
+    padding:25px 0 0 0;
+    margin-left: 20px;
+}
+.footer-col{
+   border-right:1px solid white
+}
+.footer-r{
+    margin:60px 0 0 70px;
+}

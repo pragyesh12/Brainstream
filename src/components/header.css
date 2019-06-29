@@ -1,0 +1,16 @@
+.header{
+    background: black;
+    color:white;
+    padding:20px;
+    /* position: fixed; */
+         
+}
+.header-col1{
+    font-weight: 500;
+    font-size: 20px;
+}
+.header-col2{
+    font-size: 17px;
+   line-height: 20px;
+   color: #FFFFFF;
+}
